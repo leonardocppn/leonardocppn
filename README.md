@@ -1,3 +1,3 @@
 ### I found out Python is more forgiving than quantum mechanics.<br>
-Currently exploring the gap between "it compiles" and "it works." 
+Currently exploring the gap between "it compiles" and "it works." <br>
 Looking to turn that gap into a job.
